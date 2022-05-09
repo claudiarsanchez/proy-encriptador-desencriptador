@@ -172,8 +172,8 @@ function copiarAlPortapapeles() {
 
 var rodapie =
   "Claudia Rita Sánchez     -     " +
-  "Github: https://github.com/claudiasanchez     -     " +
-  "LinkedIn: www.linkedin.com/in/jorge-nanni                                ";
+  "Github: https://github.com/claudiarsanchez/proy-encriptador-desencriptador     -     " +
+  "Linkedin: https://www.linkedin.com/in/claudia-rita-s%C3%A1nchez-9b021876/     -";
 
 function scroll() {
   document.frm.w.value = rodapie;
